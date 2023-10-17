@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbarn)](https://github.com/jabbarn/github-readme-stats)
+![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbarn&show_icons=true)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabbarn&hide=javascript,html,css,php&layout=compact&langs_count=6)
 
 <!--
 **jabbarn/jabbarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
